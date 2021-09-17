@@ -1,6 +1,6 @@
 body {
     font-family: 'Times New Roman', sans-serif;
-    background-color: #000000;
+    background: #000000;
     color: #ffffff;
 }
 
@@ -32,24 +32,24 @@ div {
 }
 
 #red {
-    background-color: #ff0000;
+    background: #ff0000;
     text-align: right;
 }
 
 #blue {
-    background-color: #0000ff;
+    background: #0000ff;
     text-align: left;
 }
 
 #yellow {
-    background-color: #ffff00;
+    background: #ffff00;
     text-align: right;
     color: #000000;
     text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 #green {
-    background-color: #008000;
+    background: #008000;
     text-align: left;
 }
 
